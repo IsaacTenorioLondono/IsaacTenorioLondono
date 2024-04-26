@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @IsaacTenorioLondono
+- 👀 I’m interested in develop on WPF and Visual Basic.NET
+- 🌱 I’m currently learning C#
